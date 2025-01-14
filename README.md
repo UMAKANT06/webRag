@@ -20,3 +20,10 @@ sections, and extract the necessary instructions or steps.
 ○ Size variations. E.g extremely long question should not break it down.
 ○ Questions irrelevant to CDP. e.g Which Movie is getting released this
 week
+
+
+Install required packages:
+pip install -r requirements.txt
+
+Start the Streamlit application:
+streamlit run app.py
