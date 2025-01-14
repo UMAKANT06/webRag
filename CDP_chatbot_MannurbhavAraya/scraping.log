@@ -1,0 +1,13 @@
+2025-01-14 18:27:05,667 - INFO - Starting to scrape segment documentation...
+2025-01-14 18:27:40,163 - WARNING - Failed to fetch https://segment.com/docs/connections/reverse-etl/reverse-etl-source-setup-guides/: 404
+2025-01-14 18:27:53,989 - WARNING - Failed to fetch https://segment.com/docs/dynamic-coupon-program: 404
+2025-01-14 18:28:58,226 - INFO - Completed scraping segment. Found 109 documents.
+2025-01-14 18:28:58,255 - INFO - Starting to scrape mparticle documentation...
+2025-01-14 18:28:59,859 - INFO - Completed scraping mparticle. Found 0 documents.
+2025-01-14 18:28:59,859 - INFO - Starting to scrape lytics documentation...
+2025-01-14 18:29:47,457 - WARNING - Failed to fetch https://docs.lytics.com/product-docs/descriptive-and-predictive-modeling/lytics-scores#frequency: 404
+2025-01-14 18:29:47,592 - WARNING - Failed to fetch https://docs.lytics.com/understanding/product-docs/data-onboarding-and-management/user-fields: 404
+2025-01-14 18:29:49,615 - WARNING - Failed to fetch https://docs.lytics.com/documentation/product/faq#how-do-you-a-b-test-within-lytics-audiences: 404
+2025-01-14 18:30:09,260 - INFO - Completed scraping lytics. Found 95 documents.
+2025-01-14 18:30:09,281 - INFO - Starting to scrape zeotap documentation...
+2025-01-14 18:30:12,738 - INFO - Completed scraping zeotap. Found 0 documents.
